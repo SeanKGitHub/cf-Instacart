@@ -33,7 +33,7 @@ Customer Segmentation:
 
 - departments
 
-Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on 07.04.2025.
+Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017.
 The customer dataset as well as the 'prices' column have been synthesised and added to the dataset to allow more in-depth analyses.
 
 ## Tools
@@ -41,14 +41,11 @@ The customer dataset as well as the 'prices' column have been synthesised and ad
 The data was analysed using Python and the following libraries:
 
 - Pandas : for data analysis
-
-- Numpy: for mathematical equations
-
+- 
 - Seaborn: for data visulizations
 
 - Matplotlib: for data visulizations
 
-- Scipy: for data equations
 
 ## Folder Guide
 
